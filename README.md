@@ -14,19 +14,6 @@ Raw CSV data is stored in Amazon S3, cataloged using AWS Glue, transformed using
 - Amazon RDS (MySQL)
 - SQL
 
-## 📸 Project Screenshots
-
-### S3 Data Lake
-![S3 Upload](screenshots/s3_upload.png)
-
-### AWS Glue Table
-![Glue Table](screenshots/glue_table.png)
-
-### Athena Query Results
-![Athena Query](screenshots/athena_query.png)
-
-### QuickSight Dashboard
-![QuickSight Dashboard](screenshots/quicksight_dashboard.png)
 
 
 ## 🪜 Data Pipeline Flow
